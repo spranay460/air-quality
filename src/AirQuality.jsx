@@ -14,7 +14,7 @@ export default function AirQuality(){
     const options = {
 	method: 'GET',
 	headers: {
-		'x-rapidapi-key': '8ac22db812msh13a6a9b07a38e33p1c0576jsnff6bb3375f92',
+		'x-rapidapi-key': '',
 		'x-rapidapi-host': 'air-quality-by-api-ninjas.p.rapidapi.com'
 	}
     };
